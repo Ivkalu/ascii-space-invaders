@@ -32,6 +32,6 @@ Run game.py:
 python3 game.py
 `
 
-### Fin Fun
+### Have fun
 
 Have fun and rock those motherfudging space invaders! Nobody will invade "my" space. :-)
