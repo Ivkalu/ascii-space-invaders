@@ -1,6 +1,6 @@
 # ASCII Space Invaders
 
-This repo is a proof of concept. Concept in this case is the ascii game in python. 
+This repo is a proof of concept. Concept in this case, of course, is the ascii game in python. 
 It uses common video game logic with classic game loop: 
 - update()
 - display()
